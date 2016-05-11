@@ -8,4 +8,8 @@ public class Library {
     public boolean someLibraryMethod() {
         return true;
     }
+    
+    public void method1() {
+        //implemented for branch #1
+    }
 }
